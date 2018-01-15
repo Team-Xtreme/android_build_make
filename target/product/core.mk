@@ -55,6 +55,7 @@ PRODUCT_PACKAGES += \
     Settings \
     SettingsBlackThemeOverlay \
     SettingsDarkThemeOverlay \
+    SettingsExtendedThemeOverlay \
     SharedStorageBackup \
     StorageManager \
     Telecom \
